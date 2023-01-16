@@ -1,0 +1,29 @@
+{
+  "name": "basic-essentials-pack",
+  "displayName": "Basic Essentials Pack",
+  "description": "Basic essentials pack for programming",
+  "publisher": "jifri",
+  "repository": {
+    "url": "https://github.com/jifrivly/basic-essentials-pack"
+  },
+  "version": "0.0.1",
+  "engines": {
+    "vscode": "^1.74.0"
+  },
+  "categories": [
+    "Extension Packs"
+  ],
+  "extensionPack": [
+    "mhutchie.git-graph",
+    "eamodio.gitlens",
+    "VisualStudioExptTeam.vscodeintellicode",
+    "VisualStudioExptTeam.intellicode-api-usage-examples",
+    "christian-kohler.path-intellisense",
+    "ChakrounAnas.turbo-console-log",
+    "esbenp.prettier-vscode",
+    "streetsidesoftware.code-spell-checker",
+    "GitHub.github-vscode-theme",
+    "PKief.material-icon-theme",
+    "atlassian.atlascode"
+  ]
+}
